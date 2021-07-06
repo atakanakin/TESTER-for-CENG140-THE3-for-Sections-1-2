@@ -1,0 +1,90 @@
+
+Apartment Name: D, Max Bandwidth: 200
+(id: 301, initial_bandwith: 0, is_empty: 0) (id: 276, initial_bandwith: 4, is_empty: 0) (id: 345, initial_bandwith: 14, is_empty: 0) (id: 40, initial_bandwith: 9, is_empty: 0) (id: 50, initial_bandwith: 0, is_empty: 0) (id: 143, initial_bandwith: 4, is_empty: 0) (id: 439, initial_bandwith: 12, is_empty: 0) (id: 245, initial_bandwith: 13, is_empty: 0) (id: 13, initial_bandwith: 2, is_empty: 0) (id: 179, initial_bandwith: 13, is_empty: 0) (id: 286, initial_bandwith: 12, is_empty: 0) (id: 25, initial_bandwith: 2, is_empty: 0) 
+backwards
+(id: 25, initial_bandwith: 2, is_empty: 0)(id: 286, initial_bandwith: 12, is_empty: 0)(id: 179, initial_bandwith: 13, is_empty: 0)(id: 13, initial_bandwith: 2, is_empty: 0)(id: 245, initial_bandwith: 13, is_empty: 0)(id: 439, initial_bandwith: 12, is_empty: 0)(id: 143, initial_bandwith: 4, is_empty: 0)(id: 50, initial_bandwith: 0, is_empty: 0)(id: 40, initial_bandwith: 9, is_empty: 0)(id: 345, initial_bandwith: 14, is_empty: 0)(id: 276, initial_bandwith: 4, is_empty: 0)(id: 301, initial_bandwith: 0, is_empty: 0)
+
+Apartment Name: J, Max Bandwidth: 240
+(id: 29, initial_bandwith: 44, is_empty: 0) (id: 134, initial_bandwith: 48, is_empty: 0) (id: 253, initial_bandwith: 40, is_empty: 0) (id: 480, initial_bandwith: 24, is_empty: 0) (id: 145, initial_bandwith: 7, is_empty: 0) 
+backwards
+(id: 145, initial_bandwith: 7, is_empty: 0)(id: 480, initial_bandwith: 24, is_empty: 0)(id: 253, initial_bandwith: 40, is_empty: 0)(id: 134, initial_bandwith: 48, is_empty: 0)(id: 29, initial_bandwith: 44, is_empty: 0)
+
+Apartment Name: C, Max Bandwidth: 360
+(id: 79, initial_bandwith: 1, is_empty: 0) (id: 416, initial_bandwith: 22, is_empty: 0) (id: 135, initial_bandwith: 22, is_empty: 0) (id: 335, initial_bandwith: 21, is_empty: 0) (id: 359, initial_bandwith: 11, is_empty: 0) (id: 220, initial_bandwith: 15, is_empty: 0) (id: 443, initial_bandwith: 15, is_empty: 0) (id: 483, initial_bandwith: 11, is_empty: 0) (id: 378, initial_bandwith: 16, is_empty: 0) (id: 186, initial_bandwith: 0, is_empty: 0) (id: 236, initial_bandwith: 19, is_empty: 0) (id: 172, initial_bandwith: 1, is_empty: 0) (id: 89, initial_bandwith: 8, is_empty: 0) (id: 10, initial_bandwith: 19, is_empty: 0) (id: 11, initial_bandwith: 5, is_empty: 0) (id: 244, initial_bandwith: 1, is_empty: 0) 
+backwards
+(id: 244, initial_bandwith: 1, is_empty: 0)(id: 11, initial_bandwith: 5, is_empty: 0)(id: 10, initial_bandwith: 19, is_empty: 0)(id: 89, initial_bandwith: 8, is_empty: 0)(id: 172, initial_bandwith: 1, is_empty: 0)(id: 236, initial_bandwith: 19, is_empty: 0)(id: 186, initial_bandwith: 0, is_empty: 0)(id: 378, initial_bandwith: 16, is_empty: 0)(id: 483, initial_bandwith: 11, is_empty: 0)(id: 443, initial_bandwith: 15, is_empty: 0)(id: 220, initial_bandwith: 15, is_empty: 0)(id: 359, initial_bandwith: 11, is_empty: 0)(id: 335, initial_bandwith: 21, is_empty: 0)(id: 135, initial_bandwith: 22, is_empty: 0)(id: 416, initial_bandwith: 22, is_empty: 0)(id: 79, initial_bandwith: 1, is_empty: 0)
+
+Apartment Name: Y, Max Bandwidth: 300
+(id: 149, initial_bandwith: 20, is_empty: 0) (id: 457, initial_bandwith: 14, is_empty: 0) (id: 280, initial_bandwith: 16, is_empty: 0) (id: 15, initial_bandwith: 0, is_empty: 0) (id: 398, initial_bandwith: 12, is_empty: 0) (id: 247, initial_bandwith: 12, is_empty: 0) (id: 365, initial_bandwith: 12, is_empty: 0) (id: 160, initial_bandwith: 20, is_empty: 0) (id: 386, initial_bandwith: 0, is_empty: 0) (id: 367, initial_bandwith: 3, is_empty: 0) (id: 68, initial_bandwith: 17, is_empty: 0) (id: 46, initial_bandwith: 0, is_empty: 0) (id: 471, initial_bandwith: 1, is_empty: 0) (id: 100, initial_bandwith: 1, is_empty: 0) 
+backwards
+(id: 100, initial_bandwith: 1, is_empty: 0)(id: 471, initial_bandwith: 1, is_empty: 0)(id: 46, initial_bandwith: 0, is_empty: 0)(id: 68, initial_bandwith: 17, is_empty: 0)(id: 367, initial_bandwith: 3, is_empty: 0)(id: 386, initial_bandwith: 0, is_empty: 0)(id: 160, initial_bandwith: 20, is_empty: 0)(id: 365, initial_bandwith: 12, is_empty: 0)(id: 247, initial_bandwith: 12, is_empty: 0)(id: 398, initial_bandwith: 12, is_empty: 0)(id: 15, initial_bandwith: 0, is_empty: 0)(id: 280, initial_bandwith: 16, is_empty: 0)(id: 457, initial_bandwith: 14, is_empty: 0)(id: 149, initial_bandwith: 20, is_empty: 0)
+
+Apartment Name: P, Max Bandwidth: 280
+(id: 103, initial_bandwith: 2, is_empty: 0) (id: 357, initial_bandwith: 10, is_empty: 0) (id: 496, initial_bandwith: 11, is_empty: 0) (id: 497, initial_bandwith: 15, is_empty: 0) (id: 267, initial_bandwith: 9, is_empty: 0) (id: 196, initial_bandwith: 10, is_empty: 0) (id: 108, initial_bandwith: 1, is_empty: 0) (id: 395, initial_bandwith: 1, is_empty: 0) (id: 387, initial_bandwith: 9, is_empty: 0) (id: 165, initial_bandwith: 6, is_empty: 0) (id: 183, initial_bandwith: 10, is_empty: 0) (id: 39, initial_bandwith: 14, is_empty: 0) (id: 62, initial_bandwith: 7, is_empty: 0) (id: 114, initial_bandwith: 5, is_empty: 0) (id: 199, initial_bandwith: 10, is_empty: 0) (id: 385, initial_bandwith: 3, is_empty: 0) (id: 353, initial_bandwith: 5, is_empty: 0) (id: 98, initial_bandwith: 11, is_empty: 0) 
+backwards
+(id: 98, initial_bandwith: 11, is_empty: 0)(id: 353, initial_bandwith: 5, is_empty: 0)(id: 385, initial_bandwith: 3, is_empty: 0)(id: 199, initial_bandwith: 10, is_empty: 0)(id: 114, initial_bandwith: 5, is_empty: 0)(id: 62, initial_bandwith: 7, is_empty: 0)(id: 39, initial_bandwith: 14, is_empty: 0)(id: 183, initial_bandwith: 10, is_empty: 0)(id: 165, initial_bandwith: 6, is_empty: 0)(id: 387, initial_bandwith: 9, is_empty: 0)(id: 395, initial_bandwith: 1, is_empty: 0)(id: 108, initial_bandwith: 1, is_empty: 0)(id: 196, initial_bandwith: 10, is_empty: 0)(id: 267, initial_bandwith: 9, is_empty: 0)(id: 497, initial_bandwith: 15, is_empty: 0)(id: 496, initial_bandwith: 11, is_empty: 0)(id: 357, initial_bandwith: 10, is_empty: 0)(id: 103, initial_bandwith: 2, is_empty: 0)
+
+Apartment Name: R, Max Bandwidth: 220
+(id: 394, initial_bandwith: 11, is_empty: 0) (id: 120, initial_bandwith: 11, is_empty: 0) (id: 136, initial_bandwith: 24, is_empty: 0) (id: 206, initial_bandwith: 2, is_empty: 0) (id: 189, initial_bandwith: 12, is_empty: 0) (id: 30, initial_bandwith: 12, is_empty: 0) (id: 475, initial_bandwith: 2, is_empty: 0) (id: 352, initial_bandwith: 4, is_empty: 0) (id: 246, initial_bandwith: 15, is_empty: 0) 
+backwards
+(id: 246, initial_bandwith: 15, is_empty: 0)(id: 352, initial_bandwith: 4, is_empty: 0)(id: 475, initial_bandwith: 2, is_empty: 0)(id: 30, initial_bandwith: 12, is_empty: 0)(id: 189, initial_bandwith: 12, is_empty: 0)(id: 206, initial_bandwith: 2, is_empty: 0)(id: 136, initial_bandwith: 24, is_empty: 0)(id: 120, initial_bandwith: 11, is_empty: 0)(id: 394, initial_bandwith: 11, is_empty: 0)
+
+Apartment Name: B, Max Bandwidth: 140
+(id: 296, initial_bandwith: 15, is_empty: 0) (id: 233, initial_bandwith: 14, is_empty: 0) (id: 495, initial_bandwith: 14, is_empty: 0) (id: 8, initial_bandwith: 0, is_empty: 0) (id: 132, initial_bandwith: 10, is_empty: 0) 
+backwards
+(id: 132, initial_bandwith: 10, is_empty: 0)(id: 8, initial_bandwith: 0, is_empty: 0)(id: 495, initial_bandwith: 14, is_empty: 0)(id: 233, initial_bandwith: 14, is_empty: 0)(id: 296, initial_bandwith: 15, is_empty: 0)
+
+Apartment Name: L, Max Bandwidth: 320
+(id: 209, initial_bandwith: 10, is_empty: 0) (id: 486, initial_bandwith: 7, is_empty: 0) (id: 350, initial_bandwith: 31, is_empty: 0) (id: 54, initial_bandwith: 26, is_empty: 0) (id: 362, initial_bandwith: 12, is_empty: 0) (id: 487, initial_bandwith: 11, is_empty: 0) (id: 73, initial_bandwith: 15, is_empty: 0) (id: 257, initial_bandwith: 16, is_empty: 0) (id: 18, initial_bandwith: 18, is_empty: 0) 
+backwards
+(id: 18, initial_bandwith: 18, is_empty: 0)(id: 257, initial_bandwith: 16, is_empty: 0)(id: 73, initial_bandwith: 15, is_empty: 0)(id: 487, initial_bandwith: 11, is_empty: 0)(id: 362, initial_bandwith: 12, is_empty: 0)(id: 54, initial_bandwith: 26, is_empty: 0)(id: 350, initial_bandwith: 31, is_empty: 0)(id: 486, initial_bandwith: 7, is_empty: 0)(id: 209, initial_bandwith: 10, is_empty: 0)
+
+Apartment Name: F, Max Bandwidth: 320
+(id: 142, initial_bandwith: 106, is_empty: 0) (id: 298, initial_bandwith: 1, is_empty: 0) (id: 248, initial_bandwith: 50, is_empty: 0) 
+backwards
+(id: 248, initial_bandwith: 50, is_empty: 0)(id: 298, initial_bandwith: 1, is_empty: 0)(id: 142, initial_bandwith: 106, is_empty: 0)
+
+Apartment Name: X, Max Bandwidth: 380
+(id: 289, initial_bandwith: 5, is_empty: 0) (id: 343, initial_bandwith: 34, is_empty: 0) (id: 97, initial_bandwith: 11, is_empty: 0) (id: 340, initial_bandwith: 44, is_empty: 0) (id: 400, initial_bandwith: 50, is_empty: 0) (id: 102, initial_bandwith: 30, is_empty: 0) (id: 212, initial_bandwith: 36, is_empty: 0) 
+backwards
+(id: 212, initial_bandwith: 36, is_empty: 0)(id: 102, initial_bandwith: 30, is_empty: 0)(id: 400, initial_bandwith: 50, is_empty: 0)(id: 340, initial_bandwith: 44, is_empty: 0)(id: 97, initial_bandwith: 11, is_empty: 0)(id: 343, initial_bandwith: 34, is_empty: 0)(id: 289, initial_bandwith: 5, is_empty: 0)
+
+Apartment Name: A, Max Bandwidth: 220
+(id: 423, initial_bandwith: 6, is_empty: 0) (id: 193, initial_bandwith: 16, is_empty: 0) (id: 422, initial_bandwith: 16, is_empty: 0) (id: 297, initial_bandwith: 9, is_empty: 0) (id: 489, initial_bandwith: 27, is_empty: 0) (id: 334, initial_bandwith: 31, is_empty: 0) (id: 61, initial_bandwith: 7, is_empty: 0) 
+backwards
+(id: 61, initial_bandwith: 7, is_empty: 0)(id: 334, initial_bandwith: 31, is_empty: 0)(id: 489, initial_bandwith: 27, is_empty: 0)(id: 297, initial_bandwith: 9, is_empty: 0)(id: 422, initial_bandwith: 16, is_empty: 0)(id: 193, initial_bandwith: 16, is_empty: 0)(id: 423, initial_bandwith: 6, is_empty: 0)
+
+Apartment Name: N, Max Bandwidth: 280
+(id: 64, initial_bandwith: 14, is_empty: 0) (id: 31, initial_bandwith: 20, is_empty: 0) (id: 329, initial_bandwith: 4, is_empty: 0) (id: 258, initial_bandwith: 30, is_empty: 0) (id: 1, initial_bandwith: 9, is_empty: 0) (id: 93, initial_bandwith: 31, is_empty: 0) (id: 454, initial_bandwith: 24, is_empty: 0) (id: 273, initial_bandwith: 1, is_empty: 0) (id: 317, initial_bandwith: 22, is_empty: 0) 
+backwards
+(id: 317, initial_bandwith: 22, is_empty: 0)(id: 273, initial_bandwith: 1, is_empty: 0)(id: 454, initial_bandwith: 24, is_empty: 0)(id: 93, initial_bandwith: 31, is_empty: 0)(id: 1, initial_bandwith: 9, is_empty: 0)(id: 258, initial_bandwith: 30, is_empty: 0)(id: 329, initial_bandwith: 4, is_empty: 0)(id: 31, initial_bandwith: 20, is_empty: 0)(id: 64, initial_bandwith: 14, is_empty: 0)
+
+Apartment Name: K, Max Bandwidth: 280
+(id: 242, initial_bandwith: 9, is_empty: 0) (id: 426, initial_bandwith: 10, is_empty: 0) (id: 21, initial_bandwith: 13, is_empty: 0) (id: 9, initial_bandwith: 0, is_empty: 0) (id: 330, initial_bandwith: 11, is_empty: 0) (id: 418, initial_bandwith: 7, is_empty: 0) (id: 153, initial_bandwith: 11, is_empty: 0) (id: 224, initial_bandwith: 8, is_empty: 0) (id: 363, initial_bandwith: 3, is_empty: 0) (id: 421, initial_bandwith: 12, is_empty: 0) (id: 17, initial_bandwith: 8, is_empty: 0) (id: 494, initial_bandwith: 2, is_empty: 0) (id: 354, initial_bandwith: 10, is_empty: 0) (id: 433, initial_bandwith: 7, is_empty: 0) (id: 339, initial_bandwith: 7, is_empty: 0) (id: 262, initial_bandwith: 13, is_empty: 0) (id: 322, initial_bandwith: 11, is_empty: 0) (id: 56, initial_bandwith: 14, is_empty: 0) (id: 372, initial_bandwith: 14, is_empty: 0) 
+backwards
+(id: 372, initial_bandwith: 14, is_empty: 0)(id: 56, initial_bandwith: 14, is_empty: 0)(id: 322, initial_bandwith: 11, is_empty: 0)(id: 262, initial_bandwith: 13, is_empty: 0)(id: 339, initial_bandwith: 7, is_empty: 0)(id: 433, initial_bandwith: 7, is_empty: 0)(id: 354, initial_bandwith: 10, is_empty: 0)(id: 494, initial_bandwith: 2, is_empty: 0)(id: 17, initial_bandwith: 8, is_empty: 0)(id: 421, initial_bandwith: 12, is_empty: 0)(id: 363, initial_bandwith: 3, is_empty: 0)(id: 224, initial_bandwith: 8, is_empty: 0)(id: 153, initial_bandwith: 11, is_empty: 0)(id: 418, initial_bandwith: 7, is_empty: 0)(id: 330, initial_bandwith: 11, is_empty: 0)(id: 9, initial_bandwith: 0, is_empty: 0)(id: 21, initial_bandwith: 13, is_empty: 0)(id: 426, initial_bandwith: 10, is_empty: 0)(id: 242, initial_bandwith: 9, is_empty: 0)
+
+Apartment Name: I, Max Bandwidth: 240
+(id: 177, initial_bandwith: 42, is_empty: 0) (id: 223, initial_bandwith: 21, is_empty: 0) (id: 119, initial_bandwith: 12, is_empty: 0) (id: 402, initial_bandwith: 12, is_empty: 0) (id: 105, initial_bandwith: 35, is_empty: 0) 
+backwards
+(id: 105, initial_bandwith: 35, is_empty: 0)(id: 402, initial_bandwith: 12, is_empty: 0)(id: 119, initial_bandwith: 12, is_empty: 0)(id: 223, initial_bandwith: 21, is_empty: 0)(id: 177, initial_bandwith: 42, is_empty: 0)
+
+Apartment Name: E, Max Bandwidth: 260
+(id: 499, initial_bandwith: 9, is_empty: 0) (id: 107, initial_bandwith: 0, is_empty: 0) (id: 449, initial_bandwith: 16, is_empty: 0) (id: 24, initial_bandwith: 14, is_empty: 0) (id: 492, initial_bandwith: 9, is_empty: 0) (id: 445, initial_bandwith: 34, is_empty: 0) 
+backwards
+(id: 445, initial_bandwith: 34, is_empty: 0)(id: 492, initial_bandwith: 9, is_empty: 0)(id: 24, initial_bandwith: 14, is_empty: 0)(id: 449, initial_bandwith: 16, is_empty: 0)(id: 107, initial_bandwith: 0, is_empty: 0)(id: 499, initial_bandwith: 9, is_empty: 0)
+
+Apartment Name: M, Max Bandwidth: 380
+(id: 491, initial_bandwith: 25, is_empty: 0) (id: 235, initial_bandwith: 11, is_empty: 0) (id: 240, initial_bandwith: 22, is_empty: 0) (id: 70, initial_bandwith: 12, is_empty: 0) (id: 166, initial_bandwith: 36, is_empty: 0) (id: 19, initial_bandwith: 32, is_empty: 0) (id: 468, initial_bandwith: 3, is_empty: 0) (id: 308, initial_bandwith: 34, is_empty: 0) (id: 342, initial_bandwith: 22, is_empty: 0) 
+backwards
+(id: 342, initial_bandwith: 22, is_empty: 0)(id: 308, initial_bandwith: 34, is_empty: 0)(id: 468, initial_bandwith: 3, is_empty: 0)(id: 19, initial_bandwith: 32, is_empty: 0)(id: 166, initial_bandwith: 36, is_empty: 0)(id: 70, initial_bandwith: 12, is_empty: 0)(id: 240, initial_bandwith: 22, is_empty: 0)(id: 235, initial_bandwith: 11, is_empty: 0)(id: 491, initial_bandwith: 25, is_empty: 0)
+
+Apartment Name: G, Max Bandwidth: 180
+(id: 232, initial_bandwith: 8, is_empty: 0) (id: 249, initial_bandwith: 12, is_empty: 0) (id: 429, initial_bandwith: 0, is_empty: 0) (id: 204, initial_bandwith: 11, is_empty: 0) (id: 213, initial_bandwith: 15, is_empty: 0) (id: 369, initial_bandwith: 12, is_empty: 0) (id: 397, initial_bandwith: 19, is_empty: 0) (id: 55, initial_bandwith: 16, is_empty: 0) (id: 230, initial_bandwith: 18, is_empty: 0) 
+backwards
+(id: 230, initial_bandwith: 18, is_empty: 0)(id: 55, initial_bandwith: 16, is_empty: 0)(id: 397, initial_bandwith: 19, is_empty: 0)(id: 369, initial_bandwith: 12, is_empty: 0)(id: 213, initial_bandwith: 15, is_empty: 0)(id: 204, initial_bandwith: 11, is_empty: 0)(id: 429, initial_bandwith: 0, is_empty: 0)(id: 249, initial_bandwith: 12, is_empty: 0)(id: 232, initial_bandwith: 8, is_empty: 0)
+
+Apartment Name: S, Max Bandwidth: 120
+(id: 57, initial_bandwith: 4, is_empty: 0) (id: 283, initial_bandwith: 11, is_empty: 0) (id: 393, initial_bandwith: 5, is_empty: 0) (id: 117, initial_bandwith: 7, is_empty: 0) (id: 110, initial_bandwith: 7, is_empty: 0) (id: 133, initial_bandwith: 2, is_empty: 0) (id: 33, initial_bandwith: 15, is_empty: 0) (id: 446, initial_bandwith: 10, is_empty: 0) 
+backwards
+(id: 446, initial_bandwith: 10, is_empty: 0)(id: 33, initial_bandwith: 15, is_empty: 0)(id: 133, initial_bandwith: 2, is_empty: 0)(id: 110, initial_bandwith: 7, is_empty: 0)(id: 117, initial_bandwith: 7, is_empty: 0)(id: 393, initial_bandwith: 5, is_empty: 0)(id: 283, initial_bandwith: 11, is_empty: 0)(id: 57, initial_bandwith: 4, is_empty: 0)
