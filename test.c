@@ -122,7 +122,7 @@ void print_street(Apartment *head){
             if(f_temp -> next ==  NULL){
                 printf("\nbackwards\n");
                 while(f_temp){
-                    printf("(id: %d, initial_bandwith: %d, is_empty: %d) ", f_temp -> id, f_temp -> initial_bandwidth, f_temp -> is_empty);
+                    printf("(id: %d, initial_bandwith: %d, is_empty: %d)", f_temp -> id, f_temp -> initial_bandwidth, f_temp -> is_empty);
                     f_temp = f_temp -> prev;
                 }
                 printf("\n");
